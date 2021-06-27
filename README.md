@@ -22,10 +22,8 @@
 
 <a href="https://stackexchange.com/users/16179599"><img src="https://stackexchange.com/users/flair/16179599.png" width="208" height="58" alt="profile for Alif on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Alif on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
----
-
 <a href="https://github.com/thealiflab?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thealiflab&theme=dark&hide_langs_below=0&title_color=FFF" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thealiflab&theme=dark&hide_langs_below=0&title_color=FFF" />
 </a>
 
 

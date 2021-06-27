@@ -1,20 +1,19 @@
 ### Hi there, I'm Alif - aka [thealiflab][website] 
 
 - 🖥️ I’m currently working with Python 🐍 and Flutter 🔥
-- 👯 I’m looking to collaborate with other programmers 🤓
+- 👯 I’m looking to collaborate with other programmers
 - ⚡ 2021 Goals: Be more Productive 💪🏻
 - 🕹️ I love to play fps games
 
 
 ### Connect with me:
 
-[<img align="left" color="white" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" color="white" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" color="white" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" color="white" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+* <img src="./images/logos/web.png" width="15px;"/> [website](#website)
+* <img src="./images/logos/twitter.jpg" width="15px;"/> [twitter](#twitter)
+* <img src="./images/logos/linkedin.jpg" width="15px;"/> [linkedin](#linkedin)
+* <img src="./images/logos/instagram.png" width="15px;"/> [instagram](#instagram)
 
 <br />
-
 
 ---
 ### Stack Overflow Status:

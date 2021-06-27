@@ -8,7 +8,10 @@
 
 ### Connect with me:
 
-<img align="left" src="./images/logos/web.png" width="16px;"/> [website] <img align="left" src="./images/logos/twitter.jpg" width="15px;"/> [twitter] <img align="left" src="./images/logos/linkedin.jpg" width="15px;"/> [linkedin] <img align="left" src="./images/logos/instagram.png" width="15px;"/> [instagram]
+<a href="https://ahmedalif.com"> <img align="left" src="./images/logos/web.png" width="16px;"></a>
+<a href="https://twitter.com/alif0920"> <img align="left" src="./images/logos/twitter.png" width="16px;"></a>
+<a href="https://www.instagram.com/aliflabofficial/"> <img align="left" src="./images/logos/linkedin.png" width="16px;"></a>
+<a href="https://www.linkedin.com/in/alif09/"> <img align="left" src="./images/logos/instagram.png" width="16px;"></a>
 
 <br>
 
@@ -17,9 +20,3 @@
 <a href="https://github.com/thealiflab?tab=repositories">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thealiflab&theme=dark&hide_langs_below=0&title_color=FFF" />
 </a>
-
-
-[website]: https://ahmedalif.com
-[twitter]: https://twitter.com/alif0920
-[instagram]: https://www.instagram.com/aliflabofficial/
-[linkedin]: https://www.linkedin.com/in/alif09/

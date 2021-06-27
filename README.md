@@ -9,8 +9,8 @@
 ### Connect with me:
 
 <a href="https://ahmedalif.com"> <img align="left" src="./images/logos/web.png" width="16px;"></a>
-<a href="https://twitter.com/alif0920"> <img align="left" src="./images/logos/twitter.png" width="16px;"></a>
-<a href="https://www.instagram.com/aliflabofficial/"> <img align="left" src="./images/logos/linkedin.png" width="16px;"></a>
+<a href="https://twitter.com/alif0920"> <img align="left" src="./images/logos/twitter.jpg" width="16px;"></a>
+<a href="https://www.instagram.com/aliflabofficial/"> <img align="left" src="./images/logos/linkedin.jpg" width="16px;"></a>
 <a href="https://www.linkedin.com/in/alif09/"> <img align="left" src="./images/logos/instagram.png" width="16px;"></a>
 
 <br>

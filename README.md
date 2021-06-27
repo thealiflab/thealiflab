@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-* <img src="./images/logos/web.png" width="15px;"/> [website]
+* <img src="./images/logos/web.png" width="16px;"/> [website]
 * <img src="./images/logos/twitter.jpg" width="15px;"/> [twitter]
 * <img src="./images/logos/linkedin.jpg" width="15px;"/> [linkedin]
 * <img src="./images/logos/instagram.png" width="15px;"/> [instagram]

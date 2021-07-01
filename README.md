@@ -1,4 +1,4 @@
-### Hi there, I'm Alif - aka [thealiflab][website] 
+### Hi there, I'm Alif - aka [thealiflab][https://ahmedalif.com/] 
 
 - 🖥️ I’m currently working with Python 🐍 and Flutter 🔥
 - 👯 I’m looking to collaborate with other programmers

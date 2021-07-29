@@ -18,6 +18,3 @@
 
 <a href="https://stackexchange.com/users/16179599"><img src="https://stackoverflow.com/users/flair/11681472.png?theme=clean" width="208" height="58" alt="Stack Overflow of Alif"></a>
 
-<a href="https://github.com/thealiflab?tab=repositories">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thealiflab&theme=dark&hide_langs_below=0&title_color=FFF" />
-</a>

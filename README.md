@@ -2,7 +2,7 @@
 
 - 🖥️ I’m currently working with Python 🐍 and Flutter 🔥
 - 👯 I’m looking to collaborate with other programmers
-- ⚡ 2021 Goals: Be more Productive 💪🏻
+- ⚡ 2022 Goals: Be more Productive 💪🏻
 - 🕹️ I love to play fps games
 
 

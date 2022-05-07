@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate with other programmers
 - ⚡ 2022 Goals: Be more Productive 💪🏻
 - 🕹️ I love to play fps games
+- 💌 Reach me: mail@ahmedalif.com
 
 
 ### Connect with me:

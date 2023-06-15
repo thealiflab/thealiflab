@@ -1,9 +1,9 @@
 ### Hi there, I'm Alif - aka thealiflab
 
 <!-- - I’m currently working with Python 🐍 and Flutter 🔥 -->
-- 🖥️ I’m currently learning Fullstack development.
+- 🖥️ I’m currently working with Python 🐍 and Flutter 🔥
 - 👯 I’m looking to collaborate with other programmers
-- ⚡ 2022 Goals: Be more Productive 💪🏻
+- ⚡ 2023 Goals: Be more Productive 💪🏻
 - 🕹️ I love to play fps games
 
 

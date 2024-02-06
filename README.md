@@ -1,10 +1,9 @@
 ### Hi there, I'm Alif - aka thealiflab
 
-<!-- - I’m currently working with Python 🐍 and Flutter 🔥 -->
-- 🖥️ I’m currently working with Python 🐍 and Flutter 🔥
+<!-- - Small  Bio -->
+- 🖥️ I’m currently working with Python 🐍 and Machine Learning 🤖
 - 👯 I’m looking to collaborate with other programmers
-- ⚡ 2023 Goals: Be more Productive 💪🏻
-- 🕹️ I love to play fps games
+- ⚡ 2024 Goals: Continually Learn 📖
 
 
 ### Connect with me:

@@ -3,13 +3,12 @@
 <!-- - Small  Bio -->
 - 🖥️ I’m currently working with Python 🐍 and Machine Learning 🤖
 - 👯 I’m looking to collaborate with other programmers
-- ⚡ 2024 Goals: Continually Learn 📖
+- ⚡ 2025 Goals: Learn and Implement 📖
 
 
 ### Connect with me:
 
 <a href="https://thealiflab.github.io/"> <img align="left" src="./images/logos/web.png" width="16px;"></a>
-<a href="https://twitter.com/alif0920"> <img align="left" src="./images/logos/twitter.jpg" width="16px;"></a>
 <a href="https://www.linkedin.com/in/alif09/"> <img align="left" src="./images/logos/linkedin.jpg" width="16px;"></a>
 <a href="https://www.instagram.com/thealiflab/"> <img align="left" src="./images/logos/instagram.png" width="16px;"></a>
 

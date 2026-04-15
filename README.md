@@ -113,9 +113,18 @@ These are the major technologies I work with or have built on:
 
 ---
 
+## Cryptic Poem
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54AAFF&multiline=true&width=520&height=120&lines=Ambition+wakes+first%2C+whispering+not+enough;Long+roads+test+my+faith%2C;I+forge+my+future+through+roads+rough.;For+growth+and+strength%2C+I+rise+unafraid.)](https://git.io/typing-svg)
+
+---
+
 ## Let's Connect 🤝
 
 <a href="https://thealiflab.github.io/"><img src="https://img.icons8.com/?size=100&id=tz3g4rdhmLr6&format=png&color=000000" width="40px"></a>|<a href="https://www.linkedin.com/in/alif09/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40px"></a>|<a href="https://www.instagram.com/thealiflab/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40px"></a>
 |--|--|--|
+
+
+
 
 <br/>

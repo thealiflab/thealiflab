@@ -113,7 +113,7 @@ These are the major technologies I work with or have built on:
 
 ---
 
-## Cryptic Poem
+## My Cryptic Poem
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54AAFF&multiline=true&width=520&height=120&lines=Ambition+wakes+first%2C+whispering+not+enough;Long+roads+test+my+faith%2C;I+forge+my+future+through+roads+rough.;For+growth+and+strength%2C+I+rise+unafraid.)](https://git.io/typing-svg)
 

@@ -93,8 +93,8 @@ These are the major technologies I work with or have built on:
 
 **Cloud & Infrastructure**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/heroku/heroku.png">|<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">|<img title="Nginx" alt="Nginx" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|--|--|
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/heroku/heroku.png">|<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">|<img title="Nginx" alt="Nginx" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="3CX" alt="3CX" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM0MDwvkDbRKuwEUbMbqWvxGED-x9VtYZRzQ&s">
+|--|--|--|--|--|--|
 
 **Databases & Tools**
 

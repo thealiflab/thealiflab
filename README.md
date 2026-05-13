@@ -1,6 +1,6 @@
 # Hi There, I'm Alif <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm an **IT Systems Professional & ML Engineer** based in Wollongong, NSW. By day I manage enterprise IT infrastructure at H. Parsons Group — Microsoft 365, AWS, and everything in between. By night I build AI-powered applications and trained ML models, working toward a career in Machine Learning Engineering. Open to collaborating on interesting projects.
+I'm an **IT Systems Professional & AI enthusiast** based in Wollongong, NSW. By day I manage enterprise IT infrastructure across multiple brand entities, overseeing Microsoft 365, SharePoint, Intune, Entra ID, Exchange Online, AWS, Route 53, and 3CX Phone System. By night I build AI-powered applications and trained ML models, working toward a career in AI & Cloud Engineering. Open to collaborating on interesting projects.
 
 ---
 ## 🤖 My AI Pyramid — Tier and Tried 2026

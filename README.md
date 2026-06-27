@@ -108,6 +108,12 @@ These are the major technologies I work with or have built on:
 
 ---
 
+## Certifications 🏆
+
+<img title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100px" src="https://raw.githubusercontent.com/thealiflab/Cheat-Sheet/main/AWS/assets/aws-certified-cloud-practitioner.svg">
+
+---
+
 ### Stack Overflow Rank:
 <a href="https://stackoverflow.com/users/11681472/alif"><img src="https://stackoverflow.com/users/flair/11681472.png?theme=clean" width="208" height="58" alt="Stack Overflow of Alif"></a>
 

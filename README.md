@@ -110,7 +110,7 @@ These are the major technologies I work with or have built on:
 
 ## Certifications 🏆
 
-<img title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100px" src="https://raw.githubusercontent.com/thealiflab/Cheat-Sheet/main/AWS/assets/aws-certified-cloud-practitioner.svg">
+<a href="https://www.credly.com/badges/44c886b3-dc21-44d4-984c-48855292d098"><img title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100px" src="https://raw.githubusercontent.com/thealiflab/Cheat-Sheet/main/AWS/assets/aws-certified-cloud-practitioner.svg"></a>
 
 ---
 
